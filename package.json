@@ -1,0 +1,27 @@
+{
+  "name": "dischool",
+  "version": "0.1.0",
+  "description": "Discord bot for schools",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "nodemon -e ts --exec \"npm run build && npm start\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliyya/dischool.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "discord-js",
+    "typescript",
+    "javascript",
+    "shcool"
+  ],
+  "author": "eliyya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eliyya/dischool/issues"
+  },
+  "homepage": "https://github.com/eliyya/dischool#readme"
+}
